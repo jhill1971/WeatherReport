@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "540493496996",
+    "firebase_url": "https://weather-report-23eca-default-rtdb.firebaseio.com",
+    "project_id": "weather-report-23eca",
+    "storage_bucket": "weather-report-23eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540493496996:android:6f86c47aae226383775c31",
+        "android_client_info": {
+          "package_name": "com.example.weatherprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540493496996-434ocr8sankt8h3s9af4ptvt5ubvv8dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1YKgeGRu1DFnVftsr3WecHSdZ-77oLLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540493496996-434ocr8sankt8h3s9af4ptvt5ubvv8dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540493496996:android:48fc1521789d8c60775c31",
+        "android_client_info": {
+          "package_name": "dev.jameshill.weatherreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540493496996-434ocr8sankt8h3s9af4ptvt5ubvv8dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1YKgeGRu1DFnVftsr3WecHSdZ-77oLLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540493496996-434ocr8sankt8h3s9af4ptvt5ubvv8dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
